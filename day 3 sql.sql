@@ -1,3 +1,7 @@
+# CASE WHEN
+-- Database: college
+-- Table: students
+
 use college;
 select*from students;
 
